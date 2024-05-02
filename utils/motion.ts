@@ -6,7 +6,7 @@ export const TextAnimation = () => {
   const [currentIndex, setCurrentIndex] = useState(0);
 
   useEffect(() => {
-    const text = "oftware Developer";
+    const text = "unior Software Developer";
 
     const interval = setInterval(() => {
       if (isAdding) {

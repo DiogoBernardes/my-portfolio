@@ -21,7 +21,7 @@ const HeroContent = () => {
       <div className="h-full w-full flex flex-col gap-4 justify-center m-auto text-start">
         <motion.div
           variants={slideInFromLeft(0.5)}
-          className="flex flex-col gap-6 mt-6 text-6xl font-bold text-white max-w-[600px] w-auto h-auto"
+          className="flex flex-col gap-6 mt-6 text-6xl font-bold text-white max-w-[650px] w-auto h-auto"
         >
           <span>
             Hello, I'm
@@ -30,7 +30,7 @@ const HeroContent = () => {
               Diogo!{" "}
             </span>
             <motion.div variants={slideInFromTop} className=" py-[8px] mt-5 ">
-              <h1 className="text-5xl text-cyan-500">S{textToShow}</h1>
+              <h1 className="text-5xl text-cyan-500">J{textToShow}</h1>
             </motion.div>
           </span>
         </motion.div>
@@ -39,9 +39,10 @@ const HeroContent = () => {
           variants={slideInFromLeft(0.8)}
           className="text-lg text-gray-400 my-5 max-w-[600px]"
         >
-          As a software developer, I like to look for new challenges so that I
-          can expand my skills and knowledge, thus getting out of my comfort
-          zone and allowing me to grow both personally and professionally.
+          As a Junior Software Developer, I like to look for new challenges so
+          that I can expand my skills and knowledge, thus getting out of my
+          comfort zone and allowing me to grow both personally and
+          professionally.
         </motion.p>
 
         <motion.a

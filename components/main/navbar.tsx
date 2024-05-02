@@ -32,10 +32,10 @@ const Navbar = () => {
           <a href="#about-me" className="text-gray-200 hover:text-white">
             About Me
           </a>
-          <a href="#about-me" className="text-gray-200 hover:text-white">
+          <a href="#skills" className="text-gray-200 hover:text-white">
             Skills
           </a>
-          <a href="#about-me" className="text-gray-200 hover:text-white">
+          <a href="#projects" className="text-gray-200 hover:text-white">
             Projects
           </a>
           <a href="#about-me" className="text-gray-200 hover:text-white">
