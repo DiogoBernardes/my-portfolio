@@ -14,13 +14,11 @@ const ProjectCard = ({ src, title, description, link }: Props) => {
         <div className="w-full sm:w-[400px] h-[375px]">
           <div className="h-2/3 sm:h-2/3 relative">
             <div className="relative w-full h-full">
-              <a href={link}>
-                <img
-                  src={src}
-                  alt={title}
-                  className="w-full h-full object-cover"
-                />
-              </a>
+              <img
+                src={src}
+                alt={title}
+                className="w-full h-full object-cover"
+              />
             </div>
           </div>
           <div className="h-1/3 sm:h-1/3 p-4">

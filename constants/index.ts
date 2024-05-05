@@ -53,32 +53,32 @@ export const Backend_skill = [
   {
     skill_name: "Java",
     Image: "/java.png",
-    width: 50,
-    height: 50,
+    width: 45,
+    height: 45,
   },
   {
     skill_name: "Python",
     Image: "/python.png",
-    width: 60,
-    height: 60,
-  },
-  {
-    skill_name: "C#",
-    Image: "/csharp.png",
-    width: 60,
-    height: 60,
-  },
-  {
-    skill_name: "Kotlin",
-    Image: "/kotlin.png",
     width: 55,
     height: 55,
   },
   {
+    skill_name: "C#",
+    Image: "/csharp.png",
+    width: 55,
+    height: 55,
+  },
+  {
+    skill_name: "Kotlin",
+    Image: "/kotlin.png",
+    width: 50,
+    height: 50,
+  },
+  {
     skill_name: "PHP",
     Image: "/php.png",
-    width: 70,
-    height: 70,
+    width: 65,
+    height: 65,
   },
   {
     skill_name: "Node js",
@@ -89,26 +89,26 @@ export const Backend_skill = [
   {
     skill_name: "Express js",
     Image: "/express.png",
-    width: 70,
-    height: 70,
+    width: 65,
+    height: 65,
   },
   {
     skill_name: "Net",
     Image: "/net.png",
-    width: 70,
-    height: 70,
+    width: 65,
+    height: 65,
   },
   {
     skill_name: "C",
     Image: "/c.png",
-    width: 70,
-    height: 70,
+    width: 60,
+    height: 60,
   },
   {
     skill_name: "API REST",
     Image: "/rest.png",
-    width: 80,
-    height: 80,
+    width: 65,
+    height: 65,
   },
 ];
 
