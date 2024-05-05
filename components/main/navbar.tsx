@@ -13,7 +13,7 @@ const Navbar = () => {
   return (
     <div className="w-full bg-[#03001417] shadow-lg md:bg-transparent md:shadow-none fixed top-0 z-50">
       <div className="container mx-auto h-full flex items-center justify-between px-4 md:px-8 mt-4 relative">
-        <a href="#about-me" className="flex items-center">
+        <a href="#main" className="flex items-center">
           <Image
             src="/code.png"
             alt="logo"
@@ -38,7 +38,7 @@ const Navbar = () => {
           <a href="#projects" className="text-gray-200 hover:text-white">
             Projects
           </a>
-          <a href="#skills" className="text-gray-200 hover:text-white">
+          <a href="#contacts" className="text-gray-200 hover:text-white">
             Contacts
           </a>
         </div>
@@ -119,19 +119,19 @@ const Navbar = () => {
               About Me
             </a>
             <a
-              href="#about-me"
+              href="#skills"
               className="text-gray-200 hover:text-white font-semibold"
             >
               Skills
             </a>
             <a
-              href="#about-me"
+              href="#projects"
               className="text-gray-200 hover:text-white font-semibold"
             >
               Projects
             </a>
             <a
-              href="#about-me"
+              href="#contacts"
               className="text-gray-200 hover:text-white font-semibold"
             >
               Contacts

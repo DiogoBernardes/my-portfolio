@@ -23,8 +23,8 @@ const Skills = () => {
             <SkillDataProvider
               key={index}
               src={image.Image}
-              width={image.width} // Largura original
-              height={image.height} // Altura original
+              width={image.width}
+              height={image.height}
               index={index}
             />
           ))}
@@ -34,8 +34,8 @@ const Skills = () => {
             <SkillDataProvider
               key={index}
               src={image.Image}
-              width={image.width} // Largura original
-              height={image.height} // Altura original
+              width={image.width}
+              height={image.height}
               index={index}
             />
           ))}
@@ -45,8 +45,8 @@ const Skills = () => {
             <SkillDataProvider
               key={index}
               src={image.Image}
-              width={image.width} // Largura original
-              height={image.height} // Altura original
+              width={image.width}
+              height={image.height}
               index={index}
             />
           ))}
@@ -56,8 +56,8 @@ const Skills = () => {
             <SkillDataProvider
               key={index}
               src={image.Image}
-              width={image.width} // Largura original
-              height={image.height} // Altura original
+              width={image.width}
+              height={image.height}
               index={index}
             />
           ))}
@@ -67,8 +67,8 @@ const Skills = () => {
             <SkillDataProvider
               key={index}
               src={image.Image}
-              width={image.width} // Largura original
-              height={image.height} // Altura original
+              width={image.width}
+              height={image.height}
               index={index}
             />
           ))}
@@ -78,8 +78,8 @@ const Skills = () => {
             <SkillDataProvider
               key={index}
               src={image.Image}
-              width={image.width} // Largura original
-              height={image.height} // Altura original
+              width={image.width}
+              height={image.height}
               index={index}
             />
           ))}
