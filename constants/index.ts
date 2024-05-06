@@ -76,7 +76,7 @@ export const Backend_skill = [
   },
   {
     skill_name: "PHP",
-    Image: "/php.png",
+    Image: "/PHP.png",
     width: 65,
     height: 65,
   },
@@ -100,7 +100,7 @@ export const Backend_skill = [
   },
   {
     skill_name: "C",
-    Image: "/c.png",
+    Image: "/C.png",
     width: 60,
     height: 60,
   },
