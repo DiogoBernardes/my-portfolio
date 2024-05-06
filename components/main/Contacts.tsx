@@ -13,7 +13,7 @@ const Contacts = () => {
         </h1>
       </div>
 
-      <div className="container flex flex-col md:flex-row px-2 justify-center text-white ">
+      <div className="container flex flex-col md:flex-row lg:w-[900px] px-2 justify-center text-white ">
         <div className="md:w-1/3">
           <div className="flex flex-col items-center border border-purple-600 gap-1 ">
             <Image
