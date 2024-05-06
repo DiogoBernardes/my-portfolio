@@ -10,7 +10,7 @@ const Projects = () => {
         </h1>
         <div className="h-full w-full flex flex-col md:flex-row gap-10 px-14 mt-3">
           <ProjectCard
-            src="/azeite.png"
+            src="/Azeite.png"
             title="Management Application"
             description="Application for olive oil management and production developed in Java/Spring."
             link="https://github.com/DiogoBernardes/ProjetoII-Lagar"
