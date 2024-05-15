@@ -61,7 +61,7 @@ const AboutMe = () => {
             <br></br>As I&apos;m about to graduate, I&apos;m looking for a
             challenging position that promotes professional development and
             personal growth, where I can make a significant contribution and
-            continue to actively learn. Translated with DeepL.com (free version)
+            continue to actively learn.
           </p>
 
           <div className="pt-12 pb-8">
